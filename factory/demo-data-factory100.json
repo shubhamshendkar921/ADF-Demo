@@ -1,0 +1,9 @@
+{
+	"name": "demo-data-factory100",
+	"location": "northeurope",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "119022b0-e357-4cbd-87ef-cec0608a7271",
+		"tenantId": "18bf8f44-3307-4907-8bb2-1f897c5772ee"
+	}
+}
